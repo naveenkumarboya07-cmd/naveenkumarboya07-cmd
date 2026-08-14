@@ -15,65 +15,15 @@
 
 ```text
 naveen = {
-
-    "name" : "Naveen Kumar",
-
-    "role" : "Aspiring Software Developer",
-
-    "currently" : [
-        "Building Full Stack Web Applications",
-        "Strengthening Java & Backend Development",
-        "Improving Data Structures & Algorithms",
-        "Working on Real-World Software Projects"
-    ],
-
-    "working_on" : [
-        "ReachInbox – Email Outreach Platform",
-        "Full Stack Web Applications",
-        "Java & Spring Boot Applications"
-    ],
-
-    "learning" : [
-        "Advanced Java",
-        "Spring Boot",
-        "React.js",
-        "Node.js",
-        "Data Structures & Algorithms",
-        "REST API Development",
-        "Database Management"
-    ],
-
-    "ask_me" : [
-        "Java",
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "SQL",
-        "MongoDB",
-        "Full Stack Development"
-    ],
-
-    "interests" : [
-        "Software Development",
-        "Backend Engineering",
-        "Full Stack Development",
-        "Web Technologies",
-        "Problem Solving",
-        "Building Real-World Applications"
-    ],
-
-    "strengths" : [
-        "Quick Learner",
-        "Problem Solver",
-        "Team Collaboration",
-        "Continuous Learning",
-        "Project-Based Learning"
-    ],
-
-    "fun_fact" : "I love turning ideas into real-world applications 🚀"
+    "role"      : "Aspiring Software Developer",
+    "focus"     : ["Java", "Spring Boot", "Full Stack"],
+    "building"  : "ReachInbox & Web Applications",
+    "learning"  : ["DSA", "REST APIs", "Backend Development"],
+    "interests" : ["Software Development", "Problem Solving"],
+    "goal"      : "Build impactful software solutions 🚀"
 }
 ```
+
 
 ---
 
