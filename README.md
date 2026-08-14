@@ -52,6 +52,20 @@ I believe the best way to learn software development is by **building projects, 
 
 ---
 
+## 🤝 Open To
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software%20Developer-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java%20Developer-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-1572B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Developer-339933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Internships-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
+
+</div>
+---
+
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming Languages
@@ -140,6 +154,8 @@ I believe the best way to learn software development is by **building projects, 
 </div>
 
 ---
+
+
 
 ## 🚀 Featured Project
 
@@ -306,29 +322,6 @@ Technical Analysis
 
 ---
 
-## 🎯 2026 Goals
-
-```text
-01. Become a strong Software Developer
-
-02. Master Java & Spring Boot
-
-03. Improve Data Structures & Algorithms
-
-04. Build production-ready Full Stack applications
-
-05. Develop scalable REST APIs
-
-06. Strengthen SQL & Database concepts
-
-07. Contribute to Open Source projects
-
-08. Build and maintain quality GitHub projects
-
-09. Improve problem-solving skills
-
-10. Start a successful career in Software Development
-```
 
 ---
 
@@ -385,57 +378,6 @@ Technical Analysis
 
 ---
 
-## 📌 Development Workflow
-
-<div align="center">
-
-```text
-Idea
-  ↓
-Planning
-  ↓
-UI / Architecture
-  ↓
-Development
-  ↓
-API Integration
-  ↓
-Database
-  ↓
-Testing
-  ↓
-Git & GitHub
-  ↓
-Deployment
-  ↓
-Continuous Improvement 🚀
-```
-
-</div>
-
----
-
-## 🧠 Problem-Solving Approach
-
-<div align="center">
-
-```text
-Understand the Problem
-        ↓
-Break it into Smaller Parts
-        ↓
-Identify the Best Approach
-        ↓
-Write Clean & Simple Code
-        ↓
-Test the Solution
-        ↓
-Debug & Improve
-        ↓
-Document the Result
-```
-
-</div>
 
 ---
 
@@ -464,20 +406,7 @@ I believe consistent practice and project-based learning are the keys to becomin
 
 </div>
 
----
 
-## 🤝 Open To
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Software%20Developer-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java%20Developer-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-1572B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend%20Developer-339933?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Internships-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
-
-</div>
 
 ---
 
@@ -499,12 +428,19 @@ I believe consistent practice and project-based learning are the keys to becomin
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="mailto:YOUR_GMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://www.instagram.com/_naveen__lucky_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
+</div>
 ---
 
 ## 💭 Developer Quote
